@@ -1,0 +1,6 @@
+flask
+reactpy[flask]
+requests
+bs4
+reactpy-router
+whitenoise
